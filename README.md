@@ -39,7 +39,7 @@ Average Delivery Time: 2.3 days
 These KPIs provide an executive summary of overall business performance.
 
 # Key Insights
-# 1️. Sales Trends
+## 1️. Sales Trends
 
 Revenue and quantity show strong positive correlation.
 
