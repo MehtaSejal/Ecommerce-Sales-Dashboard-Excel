@@ -30,7 +30,7 @@ Total Orders: 2,400
 
 Total Quantity Sold: 11,997
 
-Total Revenue: £649,000
+Total Revenue: $649,000
 
 Average Customer Rating: 4.0
 
