@@ -45,13 +45,13 @@ Revenue and quantity show strong positive correlation.
 
 Sales peaked between Weeks 6–10, indicating potential seasonal or campaign-driven impact.
 
-2️. Customer Purchase Behaviour
+### 2️. Customer Purchase Behaviour
 
 Most customers purchase 2–3 items per order.
 
 Opportunity exists to increase Average Order Value through product bundles or upselling strategies.
 
-3️. Channel Performance
+### 3️. Channel Performance
 
 The App is the most preferred purchase channel.
 
@@ -59,7 +59,7 @@ Website and third-party platforms contribute significantly.
 
 Recommendation: Continue investing in mobile-first optimisation.
 
-4️. Product Popularity
+### 4️. Product Popularity
 
 Female customers contribute 52% of purchases.
 
@@ -67,13 +67,13 @@ T-Shirts and Jeans are top-performing categories.
 
 Recommendation: Targeted campaigns for high-performing segments could increase revenue.
 
-5️. Geographic Distribution
+### 5️. Geographic Distribution
 
 California shows the highest sales volume.
 
 Regional marketing strategies may improve underperforming states.
 
-6️. Delivery & Satisfaction
+### 6️. Delivery & Satisfaction
 
 Most deliveries are completed within 1–3 days.
 
